@@ -5,3 +5,9 @@
 	<li>vw单位支持有bug，元素宽度不支持vw。</li>
 	<li>css3 animation动画keyframes开始点必须写0%，不能写0。</li>
 </ol>
+<h3>UC微信浏览器Bug总结：</h3>
+<ol>
+	<li>所有版本均不支持vw单位（20151122）。</li>
+	<li>margin-top 百分比计算有误。</li>
+
+</ol>
